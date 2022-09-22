@@ -6,7 +6,6 @@ public class Okul_Puan {
         int not;
         System.out.print("Not Giriniz:");
         not=k.nextInt();
-
             if (not > 0 && not <=35) {
                 System.out.println("FF");
             } else if (not >35 && not <=50) {
