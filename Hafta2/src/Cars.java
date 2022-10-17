@@ -30,6 +30,7 @@ public class Cars implements Rentable {
     @Override
     public int dailyRent(int day) {
         return day * dailyRentPrice;
+
     }
 
 

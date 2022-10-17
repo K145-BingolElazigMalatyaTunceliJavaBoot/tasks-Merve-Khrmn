@@ -1,3 +1,5 @@
  interface MonthlyRentable {
-     int monthlyRent(int day);
+      int monthlyRent(int day);
+
+
 }

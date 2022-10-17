@@ -24,6 +24,5 @@ public class Main {
             System.out.println("SUV günlük:" + suv.dailyRent(10));
             System.out.println(suv.monthlyRent(15));
         }
-
     }
 }

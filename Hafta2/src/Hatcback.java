@@ -3,5 +3,6 @@ public class Hatcback extends Cars{
     public int dailyRent(int day) {
         return day * super.getDailyRentPrice();
     }
-    }
+
+}
 

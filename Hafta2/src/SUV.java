@@ -7,5 +7,6 @@ public class SUV extends Cars implements MonthlyRentable {
     @Override
     public int dailyRent(int day) {
         return day * super.getDailyRentPrice();
+
     }
 }
